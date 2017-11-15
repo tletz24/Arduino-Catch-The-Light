@@ -26,7 +26,8 @@ void loop ()
 }
 
 void gameMode1() {
-  while (digitalRead(button) == HIGH && digitalRead(slideSwitch) == HIGH )     
+  //TO PLAY WITHOUT A SWITCH REMOVE "&& digitalRead(slideSwitch) == HIGH" in this line below.
+  while (digitalRead(button) == HIGH && digitalRead(slideSwitch) == HIGH )   
       {
        for (int x = 0; x<=8; x++)       
         {
