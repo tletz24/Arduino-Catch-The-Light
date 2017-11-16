@@ -18,4 +18,10 @@ Feel free to send me any comments or feedback on this project, I
 look to be keeping up on it and adding more and more functionality
 as time progresses!
 
+IF YOU DONT HAVE AN ARDUINO you can visit the link below and
+play with the online verison that I have created in TinkerCAD
+
+Website
+https://www.tinkercad.com/things/2apCdOCPfO9-arduino-catch-the-light-schematic/editel
+
 Thanks, and enjoy the game!
