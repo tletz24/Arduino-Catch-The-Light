@@ -27,3 +27,7 @@ Website
 https://www.tinkercad.com/things/2apCdOCPfO9-arduino-catch-the-light-schematic/editel
 
 Thanks, and enjoy the game!
+
+![Adruino Board](https://github.com/tletz24/Arduino-Catch-The-Light/blob/master/Arduino%20Catch%20the%20Light%20Schematic.png)
+
+
